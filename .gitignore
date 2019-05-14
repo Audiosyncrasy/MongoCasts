@@ -2,3 +2,6 @@
 package-lock.json
 package.json
 node_modules/*
+/myUsers/node_modules/*
+/myUsers/package-lock.json
+/myUsers/package.json
